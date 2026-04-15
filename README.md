@@ -21,3 +21,6 @@ Place limit orders at 0.01 for YES token
 - Improve reliability
 - Add logging
 - Do not break working logic
+
+
+   install dependencies
